@@ -12,7 +12,16 @@ img {
 
 .textos-principais {
     color: white;
-    font-size: 28px;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: monospace, sans-serif;
+    text-align: center;
+}
+
+.textos-normais {
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
     font-family: monospace, sans-serif;
     text-align: center;
 }
