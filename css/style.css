@@ -19,8 +19,16 @@ img {
 }
 
 .textos-normais {
+    color: white;
+    font-size: 26px;
+    font-weight: bold;
+    font-family: monospace, sans-serif;
+    text-align: center;
+}
+
+.texto-escuro {
     color: black;
-    font-size: 22px;
+    font-size: 21px;
     font-weight: bold;
     font-family: monospace, sans-serif;
     text-align: center;
